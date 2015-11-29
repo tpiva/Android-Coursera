@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Modern Art UI</string>
+
+    <string name="action_information">Menu Information</string>
+    <string name="dialog_message_moma">Inspired by the work of artists such as Piet Mondrian and Ben Nicholson.\n\nClick below to now more!</string>
+</resources>
