@@ -1,4 +1,4 @@
-# Android-Coursera
+# Android Coursera
 Mini-project done on coursera Android course
 
 Mini-project from first and second part.
